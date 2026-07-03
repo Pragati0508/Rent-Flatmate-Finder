@@ -2,6 +2,7 @@
 import bcrypt from "bcryptjs";
 import User from "../models/User.js";
 
+
 const createDefaultAdmin = async () => {
   try {
     const admin = await User.findOne({
