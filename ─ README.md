@@ -271,3 +271,13 @@ Pragati Patel
 B.Tech CSE (AI)
 
 PSIT Kanpur
+
+# 🌐 Live Demo
+
+## Frontend (Vercel)
+
+https://rent-flatmate-finder-cu3obo102-pragati-patels-projects.vercel.app
+
+## Backend (Render)
+
+https://roommate-ai-backend-hwmw.onrender.com
